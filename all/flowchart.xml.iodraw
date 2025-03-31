@@ -151,8 +151,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1mpxWNWM4r69Vbzapfw-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontColor=#000000;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="1120" width="40" height="40" as="geometry" />
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontColor=#000000;fillColor=#000000;strokeColor=#3333FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="1100" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
