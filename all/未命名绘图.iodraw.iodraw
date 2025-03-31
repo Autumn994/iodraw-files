@@ -67,6 +67,12 @@
         <mxCell id="6TgmFUY_2WIXIv1nujhS-25" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="30" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="6TgmFUY_2WIXIv1nujhS-26" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6TgmFUY_2WIXIv1nujhS-27" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;数据统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="30" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
