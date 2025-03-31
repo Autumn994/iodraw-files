@@ -15,8 +15,14 @@
             <mxPoint x="330" y="210" as="sourcePoint" />
             <mxPoint x="465" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="465" y="210" />
+              <mxPoint x="400" y="210" />
+              <mxPoint x="400" y="110" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TgmFUY_2WIXIv1nujhS-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6TgmFUY_2WIXIv1nujhS-7">
+          <mxGeometry x="0.6511" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6TgmFUY_2WIXIv1nujhS-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
