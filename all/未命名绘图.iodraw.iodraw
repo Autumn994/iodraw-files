@@ -7,7 +7,7 @@
         <mxCell id="6TgmFUY_2WIXIv1nujhS-1" value="仓库管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6TgmFUY_2WIXIv1nujhS-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="6TgmFUY_2WIXIv1nujhS-3" target="6TgmFUY_2WIXIv1nujhS-1">
+        <mxCell id="6TgmFUY_2WIXIv1nujhS-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6TgmFUY_2WIXIv1nujhS-8" target="6TgmFUY_2WIXIv1nujhS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6TgmFUY_2WIXIv1nujhS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
@@ -18,11 +18,6 @@
               <mxPoint x="400" y="210" />
               <mxPoint x="400" y="110" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6TgmFUY_2WIXIv1nujhS-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6TgmFUY_2WIXIv1nujhS-7">
-          <mxGeometry x="0.6511" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6TgmFUY_2WIXIv1nujhS-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
