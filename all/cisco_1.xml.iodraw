@@ -7,7 +7,7 @@
         <mxCell id="Od-3zx7qsiSAuUqAYoYb-2260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2154" target="Od-3zx7qsiSAuUqAYoYb-2257">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2154" target="Od-3zx7qsiSAuUqAYoYb-2258">
+        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2154" target="Od-3zx7qsiSAuUqAYoYb-2258">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2154" value="" style="line;html=1;strokeColor=#23445D;" parent="1" vertex="1">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Od-3zx7qsiSAuUqAYoYb-2257" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="110" width="73" height="150" as="geometry" />
+          <mxGeometry x="604" y="110" width="73" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Od-3zx7qsiSAuUqAYoYb-2258" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_3;" vertex="1" parent="1">
           <mxGeometry x="870" y="110" width="73" height="150" as="geometry" />
