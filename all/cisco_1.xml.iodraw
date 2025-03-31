@@ -20,7 +20,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Od-3zx7qsiSAuUqAYoYb-2257" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="73" height="150" as="geometry" />
+          <mxGeometry x="610" y="110" width="73" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2258" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_3;" vertex="1" parent="1">
+          <mxGeometry x="870" y="110" width="73" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2259" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="198" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
