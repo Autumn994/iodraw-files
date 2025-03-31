@@ -90,7 +90,7 @@
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-31" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1mpxWNWM4r69Vbzapfw-30">
           <mxGeometry x="0.1826" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-27" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
