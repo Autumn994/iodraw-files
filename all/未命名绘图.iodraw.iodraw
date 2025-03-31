@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6TgmFUY_2WIXIv1nujhS-3" value="管理员端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6TgmFUY_2WIXIv1nujhS-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;管理员端&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6TgmFUY_2WIXIv1nujhS-8" value="员工端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
