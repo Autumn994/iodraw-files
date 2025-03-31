@@ -129,11 +129,14 @@
         <mxCell id="l1mpxWNWM4r69Vbzapfw-46" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="870" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l1mpxWNWM4r69Vbzapfw-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-50" value="通知员工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1mpxWNWM4r69Vbzapfw-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-51" value="更新产品库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.425;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l1mpxWNWM4r69Vbzapfw-46" target="l1mpxWNWM4r69Vbzapfw-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
