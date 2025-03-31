@@ -25,6 +25,9 @@
         <mxCell id="Od-3zx7qsiSAuUqAYoYb-2261" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据库服务器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="180" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2264" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="78" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
