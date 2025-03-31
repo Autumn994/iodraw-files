@@ -47,7 +47,7 @@
         <mxCell id="l1mpxWNWM4r69Vbzapfw-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontColor=#000000;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l1mpxWNWM4r69Vbzapfw-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#FFFF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#CC00CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="l1mpxWNWM4r69Vbzapfw-1" parent="WIyWlLk6GJQsqaUBKTNV-1">
