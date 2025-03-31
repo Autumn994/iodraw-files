@@ -85,6 +85,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l1mpxWNWM4r69Vbzapfw-27" target="l1mpxWNWM4r69Vbzapfw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-31" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1mpxWNWM4r69Vbzapfw-30">
+          <mxGeometry x="0.1826" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-27" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="630" width="80" height="80" as="geometry" />
         </mxCell>
