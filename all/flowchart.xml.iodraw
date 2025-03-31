@@ -49,6 +49,9 @@
         <mxCell id="l1mpxWNWM4r69Vbzapfw-13" value="员工发起移库申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="470" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l1mpxWNWM4r69Vbzapfw-14" target="l1mpxWNWM4r69Vbzapfw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-14" value="员工发起出库请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="470" width="110" height="30" as="geometry" />
         </mxCell>
@@ -61,7 +64,7 @@
         <mxCell id="l1mpxWNWM4r69Vbzapfw-22" value="选择所需产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l1mpxWNWM4r69Vbzapfw-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="l1mpxWNWM4r69Vbzapfw-23" value="提交出库数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.436;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l1mpxWNWM4r69Vbzapfw-13" target="l1mpxWNWM4r69Vbzapfw-21">
