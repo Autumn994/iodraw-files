@@ -62,13 +62,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-21" value="选择所需产品" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="552.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="570" y="540" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-22" value="选择所需产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-23" value="提交出库数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="85" y="545" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="532.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1mpxWNWM4r69Vbzapfw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.436;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l1mpxWNWM4r69Vbzapfw-13" target="l1mpxWNWM4r69Vbzapfw-21">
           <mxGeometry relative="1" as="geometry">
