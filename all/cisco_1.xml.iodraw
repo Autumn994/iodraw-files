@@ -26,7 +26,10 @@
           <mxGeometry x="970" y="180" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Od-3zx7qsiSAuUqAYoYb-2264" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="460" width="78" height="70" as="geometry" />
+          <mxGeometry x="590" y="440" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2265" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="298" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
