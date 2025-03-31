@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2110" value="PSTN" style="shape=mxgraph.cisco.storage.cloud;html=1;dashed=0;strokeColor=#23445D;fillColor=#ffffff;strokeWidth=2;fontFamily=Helvetica;fontSize=24;fontColor=#23445D;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="847" y="210" width="186" height="106" as="geometry" />
-        </mxCell>
         <mxCell id="2154" value="" style="line;html=1;strokeColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="379" y="340" width="943" height="10" as="geometry" />
         </mxCell>
@@ -21,6 +18,9 @@
             <mxPoint x="1272" y="345" as="sourcePoint" />
             <mxPoint x="1271.571428571429" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Od-3zx7qsiSAuUqAYoYb-2257" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="73" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
