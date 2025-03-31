@@ -10,11 +10,13 @@
         <mxCell id="6TgmFUY_2WIXIv1nujhS-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="6TgmFUY_2WIXIv1nujhS-3" target="6TgmFUY_2WIXIv1nujhS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6TgmFUY_2WIXIv1nujhS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6TgmFUY_2WIXIv1nujhS-3" target="6TgmFUY_2WIXIv1nujhS-1">
+        <mxCell id="6TgmFUY_2WIXIv1nujhS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="160" />
-              <mxPoint x="405" y="160" />
+              <mxPoint x="325" y="160" />
+              <mxPoint x="460" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -22,7 +24,7 @@
           <mxGeometry x="210" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6TgmFUY_2WIXIv1nujhS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
